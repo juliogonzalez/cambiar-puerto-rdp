@@ -1,0 +1,10 @@
+C:\Documents and Settings\administrador\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\bin\Release\Cambiar puerto RDP.exe
+C:\Documents and Settings\administrador\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\bin\Release\Cambiar puerto RDP.pdb
+C:\Documents and Settings\administrador\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\bin\Release\Cambiar puerto RDP.xml
+C:\Documents and Settings\administrador\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\administrador\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\Release\rdpportchanger.Form1.resources
+C:\Documents and Settings\administrador\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\Release\rdpportchanger.Resources.resources
+C:\Documents and Settings\administrador\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\administrador\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\Release\Cambiar puerto RDP.exe
+C:\Documents and Settings\administrador\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\Release\Cambiar puerto RDP.xml
+C:\Documents and Settings\administrador\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\Release\Cambiar puerto RDP.pdb

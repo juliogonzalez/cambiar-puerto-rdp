@@ -1,0 +1,49 @@
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2008\Projects\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\Cambiar puerto RDP.exe
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2008\Projects\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\Cambiar puerto RDP.xml
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2008\Projects\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\Cambiar puerto RDP.pdb
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2008\Projects\Cambiar puerto RDP\Cambiar puerto RDP\bin\Release\Cambiar puerto RDP.exe
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2008\Projects\Cambiar puerto RDP\Cambiar puerto RDP\bin\Release\Cambiar puerto RDP.pdb
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2008\Projects\Cambiar puerto RDP\Cambiar puerto RDP\bin\Release\Cambiar puerto RDP.xml
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2008\Projects\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2008\Projects\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\rdpportchanger.Form1.resources
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2008\Projects\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\rdpportchanger.Resources.resources
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2008\Projects\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\Cambiar puerto RDP.vbproj.GenerateResource.Cache
+F:\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\Cambiar puerto RDP.exe
+F:\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\Cambiar puerto RDP.xml
+F:\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\Cambiar puerto RDP.pdb
+F:\Cambiar puerto RDP\Cambiar puerto RDP\bin\Release\Cambiar puerto RDP.exe
+F:\Cambiar puerto RDP\Cambiar puerto RDP\bin\Release\Cambiar puerto RDP.pdb
+F:\Cambiar puerto RDP\Cambiar puerto RDP\bin\Release\Cambiar puerto RDP.xml
+F:\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\ResolveAssemblyReference.cache
+F:\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\rdpportchanger.Form1.resources
+F:\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\rdpportchanger.Resources.resources
+F:\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\GenerateResource.read.1.tlog
+F:\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\GenerateResource.write.1.tlog
+O:\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\Cambiar puerto RDP.exe
+O:\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\Cambiar puerto RDP.xml
+O:\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\Cambiar puerto RDP.pdb
+O:\Cambiar puerto RDP\Cambiar puerto RDP\bin\Release\Cambiar puerto RDP.exe.config
+O:\Cambiar puerto RDP\Cambiar puerto RDP\bin\Release\Cambiar puerto RDP.exe
+O:\Cambiar puerto RDP\Cambiar puerto RDP\bin\Release\Cambiar puerto RDP.pdb
+O:\Cambiar puerto RDP\Cambiar puerto RDP\bin\Release\Cambiar puerto RDP.xml
+O:\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\ResolveAssemblyReference.cache
+O:\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\rdpportchanger.Form1.resources
+O:\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\rdpportchanger.Resources.resources
+O:\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\GenerateResource.read.1.tlog
+O:\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\GenerateResource-ResGen.read.1.tlog
+O:\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\GenerateResource.write.1.tlog
+O:\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\GenerateResource-ResGen.write.1.tlog
+K:\visual basic\Cambiar puerto RDP\Cambiar puerto RDP\bin\Release\Cambiar puerto RDP.exe.config
+K:\visual basic\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\Cambiar puerto RDP.exe
+K:\visual basic\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\Cambiar puerto RDP.xml
+K:\visual basic\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\Cambiar puerto RDP.pdb
+K:\visual basic\Cambiar puerto RDP\Cambiar puerto RDP\bin\Release\Cambiar puerto RDP.exe
+K:\visual basic\Cambiar puerto RDP\Cambiar puerto RDP\bin\Release\Cambiar puerto RDP.pdb
+K:\visual basic\Cambiar puerto RDP\Cambiar puerto RDP\bin\Release\Cambiar puerto RDP.xml
+K:\visual basic\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\ResolveAssemblyReference.cache
+K:\visual basic\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\rdpportchanger.Form1.resources
+K:\visual basic\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\rdpportchanger.Resources.resources
+K:\visual basic\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\GenerateResource.read.1.tlog
+K:\visual basic\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\GenerateResource-ResGen.read.1.tlog
+K:\visual basic\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\GenerateResource.write.1.tlog
+K:\visual basic\Cambiar puerto RDP\Cambiar puerto RDP\obj\Release\GenerateResource-ResGen.write.1.tlog
